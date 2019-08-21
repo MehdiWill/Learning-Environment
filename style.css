@@ -1,0 +1,63 @@
+body {
+    background: ;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    height: 450px;
+    margin: 0 auto;
+
+}
+
+.para {
+    display: flex;
+    align-items: flex-start;
+    background: white;
+    border-radius: 34px;
+
+}
+
+p {
+    display:flex;
+    flex-direction:column;
+    align-items: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    background:white;
+    width:350px;
+    border-radius: 34px;
+    margin: auto;
+
+}
+
+.image {
+    display:flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.source {
+    display:flex;
+    font-size: 35px;
+    flex-direction: column;
+}
+
+a {
+    display:flex;
+    align-items: flex-start;
+    flex-direction: column;
+    font-size: 20px;
+}
+
+.video { 
+    display: flex;
+    justify-content: end;
+}
+
+h5 { 
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: underline solid rgb(68, 68, 68);
+
+}
